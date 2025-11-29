@@ -1183,7 +1183,7 @@ button {
 .article-entry details[open] summary:hover {
   background-color: var(--red-5);
 }
-.article-entry details p {
+.article-entry details .detail-content {
   margin: 20px 0 0;
   padding: 12px;
   background-color: var(--color-footer-background);
